@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SMRT
+Comment=SMRT P2P Cryptocurrency
+Comment[fr]=SMRT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SMRT, eşten eşe kriptografik sanal para birimi
+Exec=smrt-qt %u
+Terminal=false
+Type=Application
+Icon=smrt128
+MimeType=x-scheme-handler/smrt;
+Categories=Office;Finance;
