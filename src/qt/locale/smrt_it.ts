@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
-        <translation>SMRT verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi PIV dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SMRTs from being stolen by malware infecting your computer.</source>
+        <translation>SMRT verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi SMRT dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI PIV&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SMRT&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI SMRT&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -433,8 +433,8 @@
         <translation>Espora la cronologia delle transazioni</translation>
     </message>
     <message>
-        <source>Privacy Actions for zPIV</source>
-        <translation>Operazioni di privacy per zPIV</translation>
+        <source>Privacy Actions for zSMRT</source>
+        <translation>Operazioni di privacy per zSMRT</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -738,7 +738,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to SMRT network</source>
-        <translation><numerusform>%n connessione attiva alla rete PIVIX</numerusform><numerusform>%n connessioni attive alla rete PIVIX</numerusform></translation>
+        <translation><numerusform>%n connessione attiva alla rete SMRTIX</numerusform><numerusform>%n connessioni attive alla rete SMRTIX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1119,7 +1119,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Can vary +/- %1 upiv per input.</source>
-        <translation>Può variare di +/- %1 uPIV per input.</translation>
+        <translation>Può variare di +/- %1 uSMRT per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1267,7 +1267,7 @@ MultiSend: %1</translation>
     </message>
     <message>
         <source>Welcome to SMRT Core.</source>
-        <translation>Benvenuto in PIVIX Core.</translation>
+        <translation>Benvenuto in SMRTIX Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where SMRT Core will store its data.</source>
@@ -1570,12 +1570,12 @@ MultiSend: %1</translation>
         <translation>Configura Offuscamento</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 PIV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 SMRT</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Usa 8 masternodi diversi per mixare fino a 10000 PIV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Usa 8 masternodi diversi per mixare fino a 10000 SMRT</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
@@ -1612,8 +1612,8 @@ MultiSend: %1</translation>
         <translation>Mappa la porta utilizzando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable zPIV Automint</source>
-        <translation>Attiva Autoconio zPIV</translation>
+        <source>Enable zSMRT Automint</source>
+        <translation>Attiva Autoconio zSMRT</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1667,16 +1667,16 @@ MultiSend: %1</translation>
         <translation>Disponibile:</translation>
     </message>
     <message>
-        <source>PIV Balance</source>
-        <translation>Bilancio PIV</translation>
+        <source>SMRT Balance</source>
+        <translation>Bilancio SMRT</translation>
     </message>
     <message>
         <source>Immature:</source>
         <translation>Non maturi:</translation>
     </message>
     <message>
-        <source>zPIV Balance</source>
-        <translation>Bilancio zPIV</translation>
+        <source>zSMRT Balance</source>
+        <translation>Bilancio zSMRT</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1752,12 +1752,12 @@ MultiSend: %1</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
-        <source>0.000 000 00 PIV</source>
-        <translation>0.000 000 00 PIV</translation>
+        <source>0.000 000 00 SMRT</source>
+        <translation>0.000 000 00 SMRT</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1780,8 +1780,8 @@ MultiSend: %1</translation>
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>zPIV Control</source>
-        <translation>Controllo zPIV</translation>
+        <source>zSMRT Control</source>
+        <translation>Controllo zSMRT</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1796,8 +1796,8 @@ MultiSend: %1</translation>
         <translation>Bilancio Disponibile:</translation>
     </message>
     <message>
-        <source>0 zPIV</source>
-        <translation>0 zPIV</translation>
+        <source>0 zSMRT</source>
+        <translation>0 zSMRT</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -1976,8 +1976,8 @@ MultiSend: %1</translation>
         <translation>Copia ammontare</translation>
     </message>
     <message>
-        <source>zPIV Mint</source>
-        <translation>Conio zPIV</translation>
+        <source>zSMRT Mint</source>
+        <translation>Conio zSMRT</translation>
     </message>
     <message>
         <source>Confirm additional Fees</source>
@@ -2371,8 +2371,8 @@ MultiSend: %1</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     </context>
 <context>

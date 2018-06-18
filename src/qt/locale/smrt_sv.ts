@@ -176,16 +176,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
-        <translation>SMRT kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina PIVs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SMRTs from being stolen by malware infecting your computer.</source>
+        <translation>SMRT kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina SMRTs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA PIV&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SMRT&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA SMRT&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -433,8 +433,8 @@
         <translation>Bläddra i transaktions historiken</translation>
     </message>
     <message>
-        <source>Privacy Actions for zPIV</source>
-        <translation>Integritets funktioner för zPIV</translation>
+        <source>Privacy Actions for zSMRT</source>
+        <translation>Integritets funktioner för zSMRT</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -1676,8 +1676,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Adress / Mängd:</translation>
     </message>
     <message>
-        <source>Add destinations to send PIV to</source>
-        <translation>Lägg till destination att skicka PIV till</translation>
+        <source>Add destinations to send SMRT to</source>
+        <translation>Lägg till destination att skicka SMRT till</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1763,32 +1763,32 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Var vänlig och välj en sekretess nivå.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 PIV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 SMRT</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 PIV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 SMRT</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Använd 16 separata huvudnoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PIV to anonymize 10000 PIV</source>
-        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 PIV för att anonymisera 10000 PIV</translation>
+        <source>This option is the quickest and will cost about ~0.025 SMRT to anonymize 10000 SMRT</source>
+        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 SMRT för att anonymisera 10000 SMRT</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PIV to anonymize 10000 PIV</source>
-        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 PIV för att anonymisera 10000 PIV</translation>
+        <source>This option is moderately fast and will cost about 0.05 SMRT to anonymize 10000 SMRT</source>
+        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 SMRT för att anonymisera 10000 SMRT</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Det här är det långsammaste och säkraste alternativet. Använda maximal anonymitet kommer kosta</translation>
     </message>
     <message>
-        <source>0.1 PIV per 10000 PIV you anonymize.</source>
-        <translation>0.1 PIV per 10000 PIV du anonymiserar.</translation>
+        <source>0.1 SMRT per 10000 SMRT you anonymize.</source>
+        <translation>0.1 SMRT per 10000 SMRT du anonymiserar.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1891,28 +1891,28 @@ https://www.transifex.com/smrt-project/smrt-project-translations</source>
 https://www.transifex.com/smrt-project/smrt-project-translations</translation>
     </message>
     <message>
-        <source>Enable automatic minting of PIV units to zPIV</source>
-        <translation>Tillåt automatisk minting med PIV enheter till zPIV</translation>
+        <source>Enable automatic minting of SMRT units to zSMRT</source>
+        <translation>Tillåt automatisk minting med SMRT enheter till zSMRT</translation>
     </message>
     <message>
-        <source>Enable zPIV Automint</source>
-        <translation>Tillåt zPIV Automint</translation>
+        <source>Enable zSMRT Automint</source>
+        <translation>Tillåt zSMRT Automint</translation>
     </message>
     <message>
-        <source>Percentage of incoming PIV which get automatically converted to zPIV via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procent av inkommande PIV som automatiskt konverteras till zPIV via Zerocoin Protokollet (min: 10%)</translation>
+        <source>Percentage of incoming SMRT which get automatically converted to zSMRT via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procent av inkommande SMRT som automatiskt konverteras till zSMRT via Zerocoin Protokollet (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zPIV</source>
-        <translation>Procent av automintade zPIV</translation>
+        <source>Percentage of autominted zSMRT</source>
+        <translation>Procent av automintade zSMRT</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough PIV for this denomination is available</source>
-        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många PIV för denna valör är tillgängliga</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough SMRT for this denomination is available</source>
+        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många SMRT för denna valör är tillgängliga</translation>
     </message>
     <message>
-        <source>Preferred Automint zPIV Denomination</source>
-        <translation>Automint zPIV valör som föredras</translation>
+        <source>Preferred Automint zSMRT Denomination</source>
+        <translation>Automint zSMRT valör som föredras</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2030,8 +2030,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>All saldo, inkluderat alla otillgängliga mynt.</translation>
     </message>
     <message>
-        <source>PIV Balance</source>
-        <translation>PIV Saldo</translation>
+        <source>SMRT Balance</source>
+        <translation>SMRT Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2058,14 +2058,14 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Ditt nuvarande SMRT saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
-        <source>zPIV Balance</source>
-        <translation>zPIV Saldo</translation>
+        <source>zSMRT Balance</source>
+        <translation>zSMRT Saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zPIV are spendable.</source>
+These zSMRT are spendable.</source>
         <translation>Mogna: över 20 bekräftelser och över 1 mint av samma valör efter den blev mintad
-Dessa zPIV kan spenderas.</translation>
+Dessa zSMRT kan spenderas.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2118,8 +2118,8 @@ Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</tran
         <translation>Spenderbart:</translation>
     </message>
     <message>
-        <source>Locked PIV or Masternode collaterals. These are excluded from zPIV minting.</source>
-        <translation>Låsta PIV eller huvudnod säkerheter. Dessa är uteslutna från zPIV minting.</translation>
+        <source>Locked SMRT or Masternode collaterals. These are excluded from zSMRT minting.</source>
+        <translation>Låsta SMRT eller huvudnod säkerheter. Dessa är uteslutna från zSMRT minting.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2130,8 +2130,8 @@ Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</tran
         <translation>Obekräftade:</translation>
     </message>
     <message>
-        <source>Your current zPIV balance, unconfirmed and immature zPIV included.</source>
-        <translation>Ditt nuvarande zPIV saldo, obekräftade och omogna zPIV inräknade.</translation>
+        <source>Your current zSMRT balance, unconfirmed and immature zSMRT included.</source>
+        <translation>Ditt nuvarande zSMRT saldo, obekräftade och omogna zSMRT inräknade.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2142,10 +2142,10 @@ Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</tran
         <translation>osynkroniserad</translation>
     </message>
     <message>
-        <source>Current percentage of zPIV.
+        <source>Current percentage of zSMRT.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Nuvarande procent zPIV.
+        <translation>Nuvarande procent zSMRT.
 Om AutoMint är tillåten så kommer denna procent sätta sig runt den konfigurerade AutoMint procenten (standard = 10%).
 </translation>
     </message>
@@ -2289,8 +2289,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i s
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2301,8 +2301,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i s
         <translation>Tillgängligt att Minta med:</translation>
     </message>
     <message>
-        <source>0.000 000 00 PIV</source>
-        <translation>0.000 000 00 PIV</translation>
+        <source>0.000 000 00 SMRT</source>
+        <translation>0.000 000 00 SMRT</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2341,16 +2341,16 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i s
         <translation>SEKRETESS</translation>
     </message>
     <message>
-        <source>Enter an amount of Piv to convert to zPIV</source>
-        <translation>Mata in en mängd PIV att konvertera till zPIV</translation>
+        <source>Enter an amount of Piv to convert to zSMRT</source>
+        <translation>Mata in en mängd SMRT att konvertera till zSMRT</translation>
     </message>
     <message>
-        <source>zPIV Control</source>
-        <translation>zPIV Kontroll</translation>
+        <source>zSMRT Control</source>
+        <translation>zSMRT Kontroll</translation>
     </message>
     <message>
-        <source>zPIV Selected:</source>
-        <translation>zPIV Valda:</translation>
+        <source>zSMRT Selected:</source>
+        <translation>zSMRT Valda:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2365,24 +2365,24 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i s
         <translation>Spendera Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zPIV for spending</source>
-        <translation>Tillgängliga (mogna och spenderbara) zPIV att spendera</translation>
+        <source>Available (mature and spendable) zSMRT for spending</source>
+        <translation>Tillgängliga (mogna och spenderbara) zSMRT att spendera</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Tillgängligt Saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zPIV for spending
+        <source>Available (mature and spendable) zSMRT for spending
 
-zPIV are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Tillgängliga (mogna och spenderbara) zPIV att spendera
+zSMRT are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Tillgängliga (mogna och spenderbara) zSMRT att spendera
 
-zPIV är mogna när de har över 20 bekräftelser OCH över 2 mints av samma valör efter de mintades.</translation>
+zSMRT är mogna när de har över 20 bekräftelser OCH över 2 mints av samma valör efter de mintades.</translation>
     </message>
     <message>
-        <source>0 zPIV</source>
-        <translation>0 zPIV</translation>
+        <source>0 zSMRT</source>
+        <translation>0 zSMRT</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2445,8 +2445,8 @@ zPIV är mogna när de har över 20 bekräftelser OCH över 2 mints av samma val
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zPIV</source>
-        <translation>Totalt Saldo, obekräftade och omogna zPIV inkluderade</translation>
+        <source>Total Balance including unconfirmed and immature zSMRT</source>
+        <translation>Totalt Saldo, obekräftade och omogna zSMRT inkluderade</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2467,24 +2467,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zPIV minting.
+        <source>Show the current status of automatic zSMRT minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to smrt.conf
 - disable: add 'enablezeromint=0' to smrt.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zPIV
+- menu Settings-&gt;Options-&gt;Percentage of autominted zSMRT
 
 </source>
-        <translation>Visa den nuvarande statusen av automatisk zPIV minting.
+        <translation>Visa den nuvarande statusen av automatisk zSMRT minting.
 
 För att ändra statusen (omstart krävs):
 -aktivera: lägg till 'enablezeromint=1' i smrt.conf
 -inaktivera: lägg till 'enablezeromint=0' i smrt.conf
 
 För att ändra procenten (ingen omstart krävs):
--meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zPIV
+-meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zSMRT
 
 </translation>
     </message>
@@ -2661,12 +2661,12 @@ För att ändra procenten (ingen omstart krävs):
         <translation>Kopiera antal</translation>
     </message>
     <message>
-        <source>zPIV Spend #: </source>
-        <translation>zPIV spendering #:</translation>
+        <source>zSMRT Spend #: </source>
+        <translation>zSMRT spendering #:</translation>
     </message>
     <message>
-        <source>zPIV Mint</source>
-        <translation>zPIV Mint</translation>
+        <source>zSMRT Mint</source>
+        <translation>zSMRT Mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2681,12 +2681,12 @@ För att ändra procenten (ingen omstart krävs):
         <translation>Konfigurerat mål för procenten: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zPIV is currently disabled due to maintenance.</source>
-        <translation>zPIV är för nuvarande inaktiverat p.g.a. underhållning.</translation>
+        <source>zSMRT is currently disabled due to maintenance.</source>
+        <translation>zSMRT är för nuvarande inaktiverat p.g.a. underhållning.</translation>
     </message>
     <message>
-        <source>zPIV is currently undergoing maintenance.</source>
-        <translation>zPIV genomgår för tillfället underhåll.</translation>
+        <source>zSMRT is currently undergoing maintenance.</source>
+        <translation>zSMRT genomgår för tillfället underhåll.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2773,8 +2773,8 @@ För att ändra procenten (ingen omstart krävs):
         <translation>Mintad med Framgång</translation>
     </message>
     <message>
-        <source> zPIV in </source>
-        <translation>zPIV i</translation>
+        <source> zSMRT in </source>
+        <translation>zSMRT i</translation>
     </message>
     <message>
         <source>Starting ResetMintZerocoin: rescanning complete blockchain, this will need up to 30 minutes depending on your hardware. 
@@ -2835,12 +2835,12 @@ Datorkraftskrävande, kan behöva flera minuter beroende på den valda säkerhet
 Var god dröjj...</translation>
     </message>
     <message>
-        <source>Version 1 zPIV require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zPIV kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zSMRT require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zSMRT kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
-        <source>Failed to spend zPIV</source>
-        <translation>Misslyckades att spendera zPIV</translation>
+        <source>Failed to spend zSMRT</source>
+        <translation>Misslyckades att spendera zSMRT</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2868,7 +2868,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of PIV to convert to zPIV</comment>
+        <comment>Enter an amount of SMRT to convert to zSMRT</comment>
         <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessRuta</numerusform></translation>
     </message>
     <message>
@@ -3157,8 +3157,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skräddarsydd Backup Sökväg:</translation>
     </message>
     <message>
-        <source>Custom zPIV Backup Path:</source>
-        <translation>Skräddarsydd zPIV Backup Sökväg:</translation>
+        <source>Custom zSMRT Backup Path:</source>
+        <translation>Skräddarsydd zSMRT Backup Sökväg:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3561,8 +3561,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>UTXO Storlek:</translation>
     </message>
     <message>
-        <source>0 PIV</source>
-        <translation>0 PIV</translation>
+        <source>0 SMRT</source>
+        <translation>0 SMRT</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3613,12 +3613,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mynt automatiskt valda</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPIVs in fee,&lt;br /&gt;while "at least" pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 uPIVs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uPIVs i avgift,&lt;br /&gt;medans "minst" betalar 1000 uPIVs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSMRTs in fee,&lt;br /&gt;while "at least" pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 uSMRTs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uSMRTs i avgift,&lt;br /&gt;medans "minst" betalar 1000 uSMRTs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPIVs in fee,&lt;br /&gt;while "total at least" pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 uPIVs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uPIVs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uPIVs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSMRTs in fee,&lt;br /&gt;while "total at least" pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 uSMRTs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uSMRTs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uSMRTs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for SMRT transactions than the network can process.</source>
@@ -3661,8 +3661,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
-        <source>Anonymized PIV</source>
-        <translation>Anonymiserade PIV</translation>
+        <source>Anonymized SMRT</source>
+        <translation>Anonymiserade SMRT</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -4301,12 +4301,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mottaget via Förvirring</translation>
     </message>
     <message>
-        <source>PIV Stake</source>
-        <translation>PIV stake</translation>
+        <source>SMRT Stake</source>
+        <translation>SMRT stake</translation>
     </message>
     <message>
-        <source>zPIV Stake</source>
-        <translation>zPIV Stake</translation>
+        <source>zSMRT Stake</source>
+        <translation>zSMRT Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4321,32 +4321,32 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Förvirring Gör Kollateral Inmatning</translation>
     </message>
     <message>
-        <source>Converted PIV to zPIV</source>
-        <translation>Konvertera PIV till zPIV</translation>
+        <source>Converted SMRT to zSMRT</source>
+        <translation>Konvertera SMRT till zSMRT</translation>
     </message>
     <message>
-        <source>Spent zPIV</source>
-        <translation>Spendera zPIV</translation>
+        <source>Spent zSMRT</source>
+        <translation>Spendera zSMRT</translation>
     </message>
     <message>
-        <source>Received PIV from zPIV</source>
-        <translation>Mottog PIV från zPIV</translation>
+        <source>Received SMRT from zSMRT</source>
+        <translation>Mottog SMRT från zSMRT</translation>
     </message>
     <message>
-        <source>Minted Change as zPIV from zPIV Spend</source>
-        <translation>Mintad Växel som zPIV från zPIV Spendera</translation>
+        <source>Minted Change as zSMRT from zSMRT Spend</source>
+        <translation>Mintad Växel som zSMRT från zSMRT Spendera</translation>
     </message>
     <message>
-        <source>Converted zPIV to PIV</source>
-        <translation>Convert zPIV to PIV</translation>
+        <source>Converted zSMRT to SMRT</source>
+        <translation>Convert zSMRT to SMRT</translation>
     </message>
     <message>
-        <source>Anonymous (zPIV Transaction)</source>
-        <translation>Anonym (zPIV Transaktion)</translation>
+        <source>Anonymous (zSMRT Transaction)</source>
+        <translation>Anonym (zSMRT Transaktion)</translation>
     </message>
     <message>
-        <source>Anonymous (zPIV Stake)</source>
-        <translation>Anonym (zPIV Stake)</translation>
+        <source>Anonymous (zSMRT Stake)</source>
+        <translation>Anonym (zSMRT Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4552,12 +4552,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exportering Lyckat</translation>
     </message>
     <message>
-        <source>Received PIV from zPIV</source>
-        <translation>Mottog PIV från zPIV</translation>
+        <source>Received SMRT from zSMRT</source>
+        <translation>Mottog SMRT från zSMRT</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zPIV</source>
-        <translation>Zerocoin spendera, Växel i zPIV</translation>
+        <source>Zerocoin Spend, Change in zSMRT</source>
+        <translation>Zerocoin spendera, Växel i zSMRT</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4593,8 +4593,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka Mynt</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 PIV.</source>
-        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 PIV.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 SMRT.</source>
+        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 SMRT.</translation>
     </message>
 </context>
 <context>
@@ -4627,8 +4627,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ZPivControlDialog</name>
     <message>
-        <source>Select zPIV to Spend</source>
-        <translation>Välj zPIV att Spendera</translation>
+        <source>Select zSMRT to Spend</source>
+        <translation>Välj zSMRT att Spendera</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4639,8 +4639,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4706,16 +4706,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Distribuerad under MIT mjukvarulicensen, se medföljande fil COPYING eller &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zPIV minting (0-1, default: %u)</source>
-        <translation>Aktivera automatisk plånboksbackup efter varje zPIV minting (0-1, standard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zSMRT minting (0-1, default: %u)</source>
+        <translation>Aktivera automatisk plånboksbackup efter varje zSMRT minting (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for PIV inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för PIV inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for SMRT inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för SMRT inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zPIV inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för zPIV inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for zSMRT inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för zSMRT inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4750,12 +4750,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i PIV/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i SMRT/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Avgifter (i PIV/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Avgifter (i SMRT/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4854,8 +4854,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Kan inte binda till %s på denna dator. SMRT Kärna körs förmodligen redan.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 PIV.</source>
-        <translation>Kan inte hitta tillräckliga pengar för denna transaktion som inte är 10000 PIV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 SMRT.</source>
+        <translation>Kan inte hitta tillräckliga pengar för denna transaktion som inte är 10000 SMRT.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5254,8 +5254,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Verifierar plånbok</translation>
     </message>
     <message>
-        <source>Version 1 zPIV require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zPIV kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zSMRT require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zSMRT kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
         <source>Wallet is locked.</source>

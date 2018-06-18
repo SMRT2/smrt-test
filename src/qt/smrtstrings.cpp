@@ -58,12 +58,12 @@ QT_TRANSLATE_NOOP("smrt-core", ""
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Enable SwiftX, show confirmations for locked transactions (bool, default: %s)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Enable automatic wallet backups triggered after each zPIV minting (0-1, "
+"Enable automatic wallet backups triggered after each zSMRT minting (0-1, "
 "default: %u)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Enable or disable staking functionality for PIV inputs (0-1, default: %u)"),
+"Enable or disable staking functionality for SMRT inputs (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Enable or disable staking functionality for zPIV inputs (0-1, default: %u)"),
+"Enable or disable staking functionality for zSMRT inputs (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Enable spork administration functionality with the appropriate private key."),
 QT_TRANSLATE_NOOP("smrt-core", ""
@@ -100,10 +100,10 @@ QT_TRANSLATE_NOOP("smrt-core", ""
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Failed to find coin set amongst held coins with less than maxNumber of Spends"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Fees (in PIV/Kb) smaller than this are considered zero fee for relaying "
+"Fees (in SMRT/Kb) smaller than this are considered zero fee for relaying "
 "(default: %s)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Fees (in PIV/Kb) smaller than this are considered zero fee for transaction "
+"Fees (in SMRT/Kb) smaller than this are considered zero fee for transaction "
 "creation (default: %s)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Flush database activity from memory pool to disk log every <n> megabytes "
@@ -171,7 +171,7 @@ QT_TRANSLATE_NOOP("smrt-core", ""
 "Show N confirmations for a successfully locked transaction (0-9999, default: "
 "%u)"),
 QT_TRANSLATE_NOOP("smrt-core", ""
-"Specify custom backup path to add a copy of any automatic zPIV backup. If "
+"Specify custom backup path to add a copy of any automatic zSMRT backup. If "
 "set as dir, every backup generates a timestamped file. If set as file, will "
 "rewrite to that file every backup. If backuppath is set as well, 4 backups "
 "will happen"),
@@ -197,10 +197,10 @@ QT_TRANSLATE_NOOP("smrt-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Unable to locate enough Obfuscation non-denominated funds for this "
-"transaction that are not equal 10000 PIV."),
+"transaction that are not equal 10000 SMRT."),
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Unable to locate enough funds for this transaction that are not equal 10000 "
-"PIV."),
+"SMRT."),
 QT_TRANSLATE_NOOP("smrt-core", ""
 "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "
 "%s)"),
@@ -319,7 +319,7 @@ QT_TRANSLATE_NOOP("smrt-core", "Failed to read block"),
 QT_TRANSLATE_NOOP("smrt-core", "Failed to select a zerocoin"),
 QT_TRANSLATE_NOOP("smrt-core", "Failed to wipe zerocoinDB"),
 QT_TRANSLATE_NOOP("smrt-core", "Failed to write coin serial number into wallet"),
-QT_TRANSLATE_NOOP("smrt-core", "Fee (in PIV/kB) to add to transactions you send (default: %s)"),
+QT_TRANSLATE_NOOP("smrt-core", "Fee (in SMRT/kB) to add to transactions you send (default: %s)"),
 QT_TRANSLATE_NOOP("smrt-core", "Finalizing transaction."),
 QT_TRANSLATE_NOOP("smrt-core", "Force safe mode (default: %u)"),
 QT_TRANSLATE_NOOP("smrt-core", "Found enough users, signing ( waiting %s )"),
@@ -408,7 +408,7 @@ QT_TRANSLATE_NOOP("smrt-core", "Randomly drop 1 of every <n> network messages"),
 QT_TRANSLATE_NOOP("smrt-core", "Randomly fuzz 1 of every <n> network messages"),
 QT_TRANSLATE_NOOP("smrt-core", "Rebuild block chain index from current blk000??.dat files"),
 QT_TRANSLATE_NOOP("smrt-core", "Receive and display P2P network alerts (default: %u)"),
-QT_TRANSLATE_NOOP("smrt-core", "Reindex the PIV and zPIV money supply statistics"),
+QT_TRANSLATE_NOOP("smrt-core", "Reindex the SMRT and zSMRT money supply statistics"),
 QT_TRANSLATE_NOOP("smrt-core", "Reindex the accumulator database"),
 QT_TRANSLATE_NOOP("smrt-core", "Reindexing zerocoin database..."),
 QT_TRANSLATE_NOOP("smrt-core", "Reindexing zerocoin failed"),
@@ -460,7 +460,7 @@ QT_TRANSLATE_NOOP("smrt-core", "Synchronizing budgets..."),
 QT_TRANSLATE_NOOP("smrt-core", "Synchronizing masternode winners..."),
 QT_TRANSLATE_NOOP("smrt-core", "Synchronizing masternodes..."),
 QT_TRANSLATE_NOOP("smrt-core", "Synchronizing sporks..."),
-QT_TRANSLATE_NOOP("smrt-core", "Syncing zPIV wallet..."),
+QT_TRANSLATE_NOOP("smrt-core", "Syncing zSMRT wallet..."),
 QT_TRANSLATE_NOOP("smrt-core", "The coin spend has been used"),
 QT_TRANSLATE_NOOP("smrt-core", "The new spend coin transaction did not verify"),
 QT_TRANSLATE_NOOP("smrt-core", "The selected mint coin is an invalid coin"),
@@ -497,11 +497,11 @@ QT_TRANSLATE_NOOP("smrt-core", "Use UPnP to map the listening port (default: 1 w
 QT_TRANSLATE_NOOP("smrt-core", "Use a custom max chain reorganization depth (default: %u)"),
 QT_TRANSLATE_NOOP("smrt-core", "Use the test network"),
 QT_TRANSLATE_NOOP("smrt-core", "Username for JSON-RPC connections"),
-QT_TRANSLATE_NOOP("smrt-core", "Value is below the smallest available denomination (= 1) of zPIV"),
+QT_TRANSLATE_NOOP("smrt-core", "Value is below the smallest available denomination (= 1) of zSMRT"),
 QT_TRANSLATE_NOOP("smrt-core", "Value more than Obfuscation pool maximum allows."),
 QT_TRANSLATE_NOOP("smrt-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("smrt-core", "Verifying wallet..."),
-QT_TRANSLATE_NOOP("smrt-core", "Version 1 zPIV require a security level of 100 to successfully spend."),
+QT_TRANSLATE_NOOP("smrt-core", "Version 1 zSMRT require a security level of 100 to successfully spend."),
 QT_TRANSLATE_NOOP("smrt-core", "Wallet %s resides outside data directory %s"),
 QT_TRANSLATE_NOOP("smrt-core", "Wallet is locked."),
 QT_TRANSLATE_NOOP("smrt-core", "Wallet needed to be rewritten: restart SMRT Core to complete"),

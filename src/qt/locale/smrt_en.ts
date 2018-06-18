@@ -221,7 +221,7 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
+        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SMRTs from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -231,7 +231,7 @@
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SMRT&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -557,7 +557,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Privacy Actions for zPIV</source>
+        <source>Privacy Actions for zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2120,7 +2120,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Add destinations to send PIV to</source>
+        <source>Add destinations to send SMRT to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2243,12 +2243,12 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
+        <source>Use 2 separate masternodes to mix funds up to 10000 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
+        <source>Use 8 separate masternodes to mix funds up to 10000 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2258,12 +2258,12 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is the quickest and will cost about ~0.025 PIV to anonymize 10000 PIV</source>
+        <source>This option is the quickest and will cost about ~0.025 SMRT to anonymize 10000 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>This option is moderately fast and will cost about 0.05 PIV to anonymize 10000 PIV</source>
+        <source>This option is moderately fast and will cost about 0.05 SMRT to anonymize 10000 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2273,7 +2273,7 @@ Please be patient after clicking import.</source>
     </message>
     <message>
         <location line="+13"/>
-        <source>0.1 PIV per 10000 PIV you anonymize.</source>
+        <source>0.1 SMRT per 10000 SMRT you anonymize.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2452,33 +2452,33 @@ https://www.transifex.com/smrt-project/smrt-project-translations</source>
     </message>
     <message>
         <location line="-169"/>
-        <source>Enable automatic minting of PIV units to zPIV</source>
+        <source>Enable automatic minting of SMRT units to zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Enable zPIV Automint</source>
+        <source>Enable zSMRT Automint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Percentage of incoming PIV which get automatically converted to zPIV via Zerocoin Protocol (min: 10%)</source>
+        <source>Percentage of incoming SMRT which get automatically converted to zSMRT via Zerocoin Protocol (min: 10%)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Percentage of autominted zPIV</source>
+        <source>Percentage of autominted zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+30"/>
         <location line="+16"/>
-        <source>Wait with automatic conversion to Zerocoin until enough PIV for this denomination is available</source>
+        <source>Wait with automatic conversion to Zerocoin until enough SMRT for this denomination is available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-13"/>
-        <source>Preferred Automint zPIV Denomination</source>
+        <source>Preferred Automint zSMRT Denomination</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2687,7 +2687,7 @@ https://www.transifex.com/smrt-project/smrt-project-translations</source>
     </message>
     <message>
         <location line="+71"/>
-        <source>PIV Balance</source>
+        <source>SMRT Balance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2724,14 +2724,14 @@ https://www.transifex.com/smrt-project/smrt-project-translations</source>
     </message>
     <message>
         <location line="+96"/>
-        <source>zPIV Balance</source>
+        <source>zSMRT Balance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+53"/>
         <location line="+17"/>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zPIV are spendable.</source>
+These zSMRT are spendable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2804,7 +2804,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+191"/>
         <location line="+19"/>
-        <source>Locked PIV or Masternode collaterals. These are excluded from zPIV minting.</source>
+        <source>Locked SMRT or Masternode collaterals. These are excluded from zSMRT minting.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2820,7 +2820,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     <message>
         <location line="+58"/>
         <location line="+19"/>
-        <source>Your current zPIV balance, unconfirmed and immature zPIV included.</source>
+        <source>Your current zSMRT balance, unconfirmed and immature zSMRT included.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2836,7 +2836,7 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+105"/>
-        <source>Current percentage of zPIV.
+        <source>Current percentage of zSMRT.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
         <translation type="unfinished"></translation>
@@ -3027,7 +3027,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="-371"/>
         <location line="+651"/>
-        <source>zPIV</source>
+        <source>zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3042,7 +3042,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+19"/>
-        <source>0.000 000 00 PIV</source>
+        <source>0.000 000 00 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3093,17 +3093,17 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     <message>
         <location line="+182"/>
         <location line="+52"/>
-        <source>Enter an amount of Piv to convert to zPIV</source>
+        <source>Enter an amount of Piv to convert to zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+301"/>
-        <source>zPIV Control</source>
+        <source>zSMRT Control</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>zPIV Selected:</source>
+        <source>zSMRT Selected:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3131,7 +3131,7 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+7"/>
-        <source>Available (mature and spendable) zPIV for spending</source>
+        <source>Available (mature and spendable) zSMRT for spending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3141,9 +3141,9 @@ To enable AutoMint change &apos;enablezeromint=0&apos; to &apos;enablezeromint=1
     </message>
     <message>
         <location line="+16"/>
-        <source>Available (mature and spendable) zPIV for spending
+        <source>Available (mature and spendable) zSMRT for spending
 
-zPIV are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+zSMRT are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3158,7 +3158,7 @@ zPIV are mature when they have more than 20 confirmations AND more than 2 mints 
         <location line="+31"/>
         <location line="+31"/>
         <location line="+31"/>
-        <source>0 zPIV</source>
+        <source>0 zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3249,7 +3249,7 @@ zPIV are mature when they have more than 20 confirmations AND more than 2 mints 
     <message>
         <location line="+68"/>
         <location line="+38"/>
-        <source>Total Balance including unconfirmed and immature zPIV</source>
+        <source>Total Balance including unconfirmed and immature zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3282,14 +3282,14 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
     </message>
     <message>
         <location line="+40"/>
-        <source>Show the current status of automatic zPIV minting.
+        <source>Show the current status of automatic zSMRT minting.
 
 To change the status (restart required):
 - enable: add &apos;enablezeromint=1&apos; to smrt.conf
 - disable: add &apos;enablezeromint=0&apos; to smrt.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zPIV
+- menu Settings-&gt;Options-&gt;Percentage of autominted zSMRT
 
 </source>
         <translation type="unfinished"></translation>
@@ -3523,12 +3523,12 @@ To change the percentage (no restart required):
     </message>
     <message>
         <location line="+442"/>
-        <source>zPIV Spend #: </source>
+        <source>zSMRT Spend #: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>zPIV Mint</source>
+        <source>zSMRT Mint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3549,13 +3549,13 @@ To change the percentage (no restart required):
     <message>
         <location line="+10"/>
         <location line="+4"/>
-        <source>zPIV is currently disabled due to maintenance.</source>
+        <source>zSMRT is currently disabled due to maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-637"/>
         <location line="+111"/>
-        <source>zPIV is currently undergoing maintenance.</source>
+        <source>zSMRT is currently undergoing maintenance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3666,7 +3666,7 @@ To change the percentage (no restart required):
     </message>
     <message>
         <location line="+0"/>
-        <source> zPIV in </source>
+        <source> zSMRT in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3756,13 +3756,13 @@ Please be patient...</source>
     <message>
         <location line="+13"/>
         <location line="+32"/>
-        <source>Version 1 zPIV require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zSMRT require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="-31"/>
         <location line="+32"/>
-        <source>Failed to spend zPIV</source>
+        <source>Failed to spend zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3796,7 +3796,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message numerus="yes">
         <location line="+335"/>
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of PIV to convert to zPIV</comment>
+        <comment>Enter an amount of SMRT to convert to zSMRT</comment>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -4227,7 +4227,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+29"/>
-        <source>Custom zPIV Backup Path:</source>
+        <source>Custom zSMRT Backup Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4789,7 +4789,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+7"/>
-        <source>0 PIV</source>
+        <source>0 SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4859,12 +4859,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+907"/>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uPIVs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uSMRTs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uPIVs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uSMRTs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4930,7 +4930,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+35"/>
-        <source>Anonymized PIV</source>
+        <source>Anonymized SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5805,12 +5805,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+7"/>
-        <source>PIV Stake</source>
+        <source>SMRT Stake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>zPIV Stake</source>
+        <source>zSMRT Stake</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5835,37 +5835,37 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Converted PIV to zPIV</source>
+        <source>Converted SMRT to zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Spent zPIV</source>
+        <source>Spent zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Received PIV from zPIV</source>
+        <source>Received SMRT from zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Minted Change as zPIV from zPIV Spend</source>
+        <source>Minted Change as zSMRT from zSMRT Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Converted zPIV to PIV</source>
+        <source>Converted zSMRT to SMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+56"/>
-        <source>Anonymous (zPIV Transaction)</source>
+        <source>Anonymous (zSMRT Transaction)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Anonymous (zPIV Stake)</source>
+        <source>Anonymous (zSMRT Stake)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6129,12 +6129,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-280"/>
-        <source>Received PIV from zPIV</source>
+        <source>Received SMRT from zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Zerocoin Spend, Change in zPIV</source>
+        <source>Zerocoin Spend, Change in zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6181,7 +6181,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <message>
         <location line="-18"/>
         <location line="+9"/>
-        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 PIV.</source>
+        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 SMRT.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6222,7 +6222,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>ZPivControlDialog</name>
     <message>
         <location filename="../forms/zpivcontroldialog.ui" line="+20"/>
-        <source>Select zPIV to Spend</source>
+        <source>Select zSMRT to Spend</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6238,7 +6238,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="-7"/>
-        <source>zPIV</source>
+        <source>zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6321,17 +6321,17 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+5"/>
-        <source>Enable automatic wallet backups triggered after each zPIV minting (0-1, default: %u)</source>
+        <source>Enable automatic wallet backups triggered after each zSMRT minting (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enable or disable staking functionality for PIV inputs (0-1, default: %u)</source>
+        <source>Enable or disable staking functionality for SMRT inputs (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Enable or disable staking functionality for zPIV inputs (0-1, default: %u)</source>
+        <source>Enable or disable staking functionality for zSMRT inputs (0-1, default: %u)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6376,12 +6376,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+8"/>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6516,12 +6516,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+2"/>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 PIV.</source>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 SMRT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 PIV.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 SMRT.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6911,7 +6911,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+4"/>
-        <source>Fee (in PIV/kB) to add to transactions you send (default: %s)</source>
+        <source>Fee (in SMRT/kB) to add to transactions you send (default: %s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7076,7 +7076,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+9"/>
-        <source>Reindex the PIV and zPIV money supply statistics</source>
+        <source>Reindex the SMRT and zSMRT money supply statistics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7168,7 +7168,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify custom backup path to add a copy of any automatic zPIV backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <source>Specify custom backup path to add a copy of any automatic zSMRT backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7793,7 +7793,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Syncing zPIV wallet...</source>
+        <source>Syncing zSMRT wallet...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7978,7 +7978,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Value is below the smallest available denomination (= 1) of zPIV</source>
+        <source>Value is below the smallest available denomination (= 1) of zSMRT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7998,7 +7998,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <location line="+1"/>
-        <source>Version 1 zPIV require a security level of 100 to successfully spend.</source>
+        <source>Version 1 zSMRT require a security level of 100 to successfully spend.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -176,7 +176,7 @@
         <translation>Потвърдете шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
+        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SMRTs from being stolen by malware infecting your computer.</source>
         <translation>SMRT сега ще се затвори, за да довърши процеса по шифриране. Запомнете, че шифрирането на вашия портфейл не може напълно да защити вашия SMRT от това, да бъде откраднат чрез злонамерен софутуер, инфектирал вашия компютър.</translation>
     </message>
     <message>
@@ -184,8 +184,8 @@
         <translation>Сигурни ли сте, че искате да шифрирате вашия портфейл?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
-        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ PIV&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SMRT&lt;/b&gt;!</source>
+        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ SMRT&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -433,8 +433,8 @@
         <translation>История на транзакциите</translation>
     </message>
     <message>
-        <source>Privacy Actions for zPIV</source>
-        <translation>Поверителни Действия за ZPIV</translation>
+        <source>Privacy Actions for zSMRT</source>
+        <translation>Поверителни Действия за ZSMRT</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -1677,8 +1677,8 @@ Please be patient after clicking import.</source>
         <translation>Адрес / Сума:</translation>
     </message>
     <message>
-        <source>Add destinations to send PIV to</source>
-        <translation>Добави получател на PIV</translation>
+        <source>Add destinations to send SMRT to</source>
+        <translation>Добави получател на SMRT</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1776,32 +1776,32 @@ Please be patient after clicking import.</source>
         <translation>Изберете ниво на поверителност.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 PIV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 SMRT</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 PIV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 SMRT</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Използвай 16 различни мастърноуда</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PIV to anonymize 10000 PIV</source>
-        <translation>Това е най-бързия метод и ще струва около 0.025 PIV за да скриете 10000 PIV</translation>
+        <source>This option is the quickest and will cost about ~0.025 SMRT to anonymize 10000 SMRT</source>
+        <translation>Това е най-бързия метод и ще струва около 0.025 SMRT за да скриете 10000 SMRT</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PIV to anonymize 10000 PIV</source>
-        <translation>Тази опция е сравнително бърза и ще струва около 0.05 PIV за да скриете 10000 PIV</translation>
+        <source>This option is moderately fast and will cost about 0.05 SMRT to anonymize 10000 SMRT</source>
+        <translation>Тази опция е сравнително бърза и ще струва около 0.05 SMRT за да скриете 10000 SMRT</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-        <translation>Това е най-бавния и най-сигурен вариант за скриване на PIV. Използването й ще струва</translation>
+        <translation>Това е най-бавния и най-сигурен вариант за скриване на SMRT. Използването й ще струва</translation>
     </message>
     <message>
-        <source>0.1 PIV per 10000 PIV you anonymize.</source>
-        <translation>0.1 PIV за 10000 скрити PIV</translation>
+        <source>0.1 SMRT per 10000 SMRT you anonymize.</source>
+        <translation>0.1 SMRT за 10000 скрити SMRT</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1944,28 +1944,28 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Картографирай портовете използвайки &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of PIV units to zPIV</source>
-        <translation>Включи автоматичното емитиране на PIV единици в zPIV</translation>
+        <source>Enable automatic minting of SMRT units to zSMRT</source>
+        <translation>Включи автоматичното емитиране на SMRT единици в zSMRT</translation>
     </message>
     <message>
-        <source>Enable zPIV Automint</source>
-        <translation>Включи Автоматично емитиране на zPIV</translation>
+        <source>Enable zSMRT Automint</source>
+        <translation>Включи Автоматично емитиране на zSMRT</translation>
     </message>
     <message>
-        <source>Percentage of incoming PIV which get automatically converted to zPIV via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент от входящите PIV, който автоматично да се конвертира в zPIV посредтвом Zerocoin Протокола (мин: 10%)</translation>
+        <source>Percentage of incoming SMRT which get automatically converted to zSMRT via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент от входящите SMRT, който автоматично да се конвертира в zSMRT посредтвом Zerocoin Протокола (мин: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zPIV</source>
-        <translation>Процент автоматично сечени zPIV</translation>
+        <source>Percentage of autominted zSMRT</source>
+        <translation>Процент автоматично сечени zSMRT</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough PIV for this denomination is available</source>
-        <translation>Не бързай с автоматичното конвертиране в zPIV докато не се съберат достатъчно PIV за тази деноминация</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough SMRT for this denomination is available</source>
+        <translation>Не бързай с автоматичното конвертиране в zSMRT докато не се съберат достатъчно SMRT за тази деноминация</translation>
     </message>
     <message>
-        <source>Preferred Automint zPIV Denomination</source>
-        <translation>Предпочитани деноминации, в които да се сече автоматичен zPIV</translation>
+        <source>Preferred Automint zSMRT Denomination</source>
+        <translation>Предпочитани деноминации, в които да се сече автоматичен zSMRT</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
@@ -2127,8 +2127,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Обща Наличност, включително и неналичните монети.</translation>
     </message>
     <message>
-        <source>PIV Balance</source>
-        <translation>PIV Наличности</translation>
+        <source>SMRT Balance</source>
+        <translation>SMRT Наличности</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,8 +2155,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Вашите SMRT наличности, включително непотвърдените и неузрели преводи</translation>
     </message>
     <message>
-        <source>zPIV Balance</source>
-        <translation>zPIV Наличности</translation>
+        <source>zSMRT Balance</source>
+        <translation>zSMRT Наличности</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SMRT network after a connection is established, but this process has not completed yet.</source>
@@ -2203,8 +2203,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Налични за харчене:</translation>
     </message>
     <message>
-        <source>Locked PIV or Masternode collaterals. These are excluded from zPIV minting.</source>
-        <translation>Заключен PIV или допълнителни гаранции в Главни Възли. Тези не са включени в zPIV емитирането.</translation>
+        <source>Locked SMRT or Masternode collaterals. These are excluded from zSMRT minting.</source>
+        <translation>Заключен SMRT или допълнителни гаранции в Главни Възли. Тези не са включени в zSMRT емитирането.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2215,8 +2215,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Непотвърден</translation>
     </message>
     <message>
-        <source>Your current zPIV balance, unconfirmed and immature zPIV included.</source>
-        <translation>Вашите zPIV наличности, включеително непотвърдените и неузрелите zPIV.</translation>
+        <source>Your current zSMRT balance, unconfirmed and immature zSMRT included.</source>
+        <translation>Вашите zSMRT наличности, включеително непотвърдените и неузрелите zSMRT.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2366,8 +2366,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in smrt.conf<
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2378,8 +2378,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in smrt.conf<
         <translation>Налични за сечене:</translation>
     </message>
     <message>
-        <source>0.000 000 00 PIV</source>
-        <translation>0.000 000 00 PIV</translation>
+        <source>0.000 000 00 SMRT</source>
+        <translation>0.000 000 00 SMRT</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2430,24 +2430,24 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in smrt.conf<
         <translation>Похарчи Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zPIV for spending</source>
-        <translation>Налични (узрели и готови за харчене) zPIV за употреба</translation>
+        <source>Available (mature and spendable) zSMRT for spending</source>
+        <translation>Налични (узрели и готови за харчене) zSMRT за употреба</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Налични:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zPIV for spending
+        <source>Available (mature and spendable) zSMRT for spending
 
-zPIV are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Налични (узрели и готови за харчене) zPIV за употреба
+zSMRT are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Налични (узрели и готови за харчене) zSMRT за употреба
 
-zPIV са узрели, тогава когато имат повече от 20 потвърждения И повече от 2 емисии от същата деноминация след като са биле емитирани</translation>
+zSMRT са узрели, тогава когато имат повече от 20 потвърждения И повече от 2 емисии от същата деноминация след като са биле емитирани</translation>
     </message>
     <message>
-        <source>0 zPIV</source>
-        <translation>0 zPIV</translation>
+        <source>0 zSMRT</source>
+        <translation>0 zSMRT</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2499,7 +2499,7 @@ zPIV са узрели, тогава когато имат повече от 20 
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>Изсечи zPIV от рестото (ще струва допълнително заради таксите)</translation>
+        <translation>Изсечи zSMRT от рестото (ще струва допълнително заради таксите)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
@@ -2518,8 +2518,8 @@ zPIV са узрели, тогава когато имат повече от 20 
         <translation>Zerocoin статистика:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zPIV</source>
-        <translation>Обща Наличност включеително непотвърдените и неузрели zPIV</translation>
+        <source>Total Balance including unconfirmed and immature zSMRT</source>
+        <translation>Обща Наличност включеително непотвърдените и неузрели zSMRT</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2534,24 +2534,24 @@ zPIV са узрели, тогава когато имат повече от 20 
         <translation>Деном. със стойност 1:</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zPIV minting.
+        <source>Show the current status of automatic zSMRT minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to smrt.conf
 - disable: add 'enablezeromint=0' to smrt.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zPIV
+- menu Settings-&gt;Options-&gt;Percentage of autominted zSMRT
 
 </source>
-        <translation>Покажи състоянието на автоматичното zPIV емитиране.
+        <translation>Покажи състоянието на автоматичното zSMRT емитиране.
 
 За да пормените състоянието (изисква рестарт):
 - вклчване: добавете 'enablezeromint=1' в smrt.conf
 - изключване: добавете 'enablezeromint=0' в smrt.conf
 
 За промяна в процентите (не изисква рестарт):
-- меню Настройки -&gt; Опции -&gt; Процент на автоемитиран zPIV
+- меню Настройки -&gt; Опции -&gt; Процент на автоемитиран zSMRT
 </translation>
     </message>
     <message>
@@ -2739,12 +2739,12 @@ To change the percentage (no restart required):
         <translation>Конфигуриран целеви процент: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zPIV is currently disabled due to maintenance.</source>
-        <translation>В момента zPIV не работи поради ремонт.</translation>
+        <source>zSMRT is currently disabled due to maintenance.</source>
+        <translation>В момента zSMRT не работи поради ремонт.</translation>
     </message>
     <message>
-        <source>zPIV is currently undergoing maintenance.</source>
-        <translation>В момента zPIV е в ремонт.</translation>
+        <source>zSMRT is currently undergoing maintenance.</source>
+        <translation>В момента zSMRT е в ремонт.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2831,8 +2831,8 @@ To change the percentage (no restart required):
         <translation>Успешно изсечени</translation>
     </message>
     <message>
-        <source> zPIV in </source>
-        <translation>zPIV в</translation>
+        <source> zSMRT in </source>
+        <translation>zSMRT в</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -3670,8 +3670,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Размер на UTXO:</translation>
     </message>
     <message>
-        <source>0 PIV</source>
-        <translation>0 PIV</translation>
+        <source>0 SMRT</source>
+        <translation>0 SMRT</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3726,12 +3726,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Автоматично избрани монети</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPIVs in fee,&lt;br /&gt;while "at least" pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uPIV и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uPIV входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uPIV. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSMRTs in fee,&lt;br /&gt;while "at least" pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uSMRT и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uSMRT входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uSMRT. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uPIVs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uPIVs in fee,&lt;br /&gt;while "total at least" pays 1000 uPIVs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uPIV и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uPIV входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uPIV. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uSMRTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uSMRTs in fee,&lt;br /&gt;while "total at least" pays 1000 uSMRTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uSMRT и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uSMRT входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uSMRT. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for SMRT transactions than the network can process.</source>
@@ -3782,8 +3782,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Добави Получател</translation>
     </message>
     <message>
-        <source>Anonymized PIV</source>
-        <translation>Анонимизиран PIV</translation>
+        <source>Anonymized SMRT</source>
+        <translation>Анонимизиран SMRT</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3831,7 +3831,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Warning: Invalid SMRT address</source>
-        <translation>Предупреждение: Невалиден PIV адрес</translation>
+        <translation>Предупреждение: Невалиден SMRT адрес</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4702,8 +4702,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Изпрати Монети</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 PIV.</source>
-        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 PIV.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 SMRT.</source>
+        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 SMRT.</translation>
     </message>
 </context>
 <context>
@@ -4744,8 +4744,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4839,12 +4839,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Командата влиза в сила, когато най-добрия блок се промени (%s в cmd се замества от хаш на блока)</translation>
     </message>
     <message>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Такси (в PIV/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Такси (в SMRT/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in PIV/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Такси (в PIV/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
+        <source>Fees (in SMRT/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Такси (в SMRT/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4951,12 +4951,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Не намираме достатъчно Обфускационно деноминирани средства за този превод.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 PIV.</source>
-        <translation>Не можем да намерим достатъчно Обфускационно не-деноминирани средства за този превод, които да не са равни на 10000 PIV.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 SMRT.</source>
+        <translation>Не можем да намерим достатъчно Обфускационно не-деноминирани средства за този превод, които да не са равни на 10000 SMRT.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 PIV.</source>
-        <translation>Не намираме достатъчно средства за този превод, които да не са равни на 10000 PIV.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 SMRT.</source>
+        <translation>Не намираме достатъчно средства за този превод, които да не са равни на 10000 SMRT.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5267,8 +5267,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Неуспешно четене на блок</translation>
     </message>
     <message>
-        <source>Fee (in PIV/kB) to add to transactions you send (default: %s)</source>
-        <translation>Такса (в PIV/kB), която да се добави към изходящи преводи (по подразбиране: %s)</translation>
+        <source>Fee (in SMRT/kB) to add to transactions you send (default: %s)</source>
+        <translation>Такса (в SMRT/kB), която да се добави към изходящи преводи (по подразбиране: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5399,8 +5399,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Процент автоматично емитирани Zerocoin (1-100, по подразбиране: %u)</translation>
     </message>
     <message>
-        <source>Reindex the PIV and zPIV money supply statistics</source>
-        <translation>Индексирай наново PIV и zPIV данните по наличности</translation>
+        <source>Reindex the SMRT and zSMRT money supply statistics</source>
+        <translation>Индексирай наново SMRT и zSMRT данните по наличности</translation>
     </message>
     <message>
         <source>SwiftX options:</source>

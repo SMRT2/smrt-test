@@ -176,16 +176,16 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
-        <translation>Dabar SMRT išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų PIV nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>SMRT will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your SMRTs from being stolen by malware infecting your computer.</source>
+        <translation>Dabar SMRT išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų SMRT nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ar tikrai norite užšifruoti savo piniginę?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
-        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO PIV&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SMRT&lt;/b&gt;!</source>
+        <translation>Įspėjimas: jei užšifruosite savo piniginę ir prarasite slaptafrazę, jūs &lt;b&gt;PRARASITE VISUS SAVO SMRT&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -433,8 +433,8 @@
         <translation>Naršyti pavedimų istoriją</translation>
     </message>
     <message>
-        <source>Privacy Actions for zPIV</source>
-        <translation>zPIV Saugumo Veiksmai </translation>
+        <source>Privacy Actions for zSMRT</source>
+        <translation>zSMRT Saugumo Veiksmai </translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -1647,8 +1647,8 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Adresas / Suma:</translation>
     </message>
     <message>
-        <source>Add destinations to send PIV to</source>
-        <translation>Pridėkite vietas, kurioms norite siųsti PIV</translation>
+        <source>Add destinations to send SMRT to</source>
+        <translation>Pridėkite vietas, kurioms norite siųsti SMRT</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1734,32 +1734,32 @@ Patikrinkite adresą ir bandykite dar kartą.</translation>
         <translation>Pasirinkite privatumo lygmenį.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 PIV</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Naudokite 2 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 SMRT</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 PIV</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 SMRT</source>
+        <translation>Naudokite 8 atskirus masternod'us, kad sumaišytumėte lėšas iki 10 000 SMRT</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Naudokite 16 atskirų masternod'ų</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PIV to anonymize 10000 PIV</source>
-        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 PIV, kad anonimizuotų 10000 PIV</translation>
+        <source>This option is the quickest and will cost about ~0.025 SMRT to anonymize 10000 SMRT</source>
+        <translation>Ši parinktis yra greičiausia ir kainuos apie ~0.025 SMRT, kad anonimizuotų 10000 SMRT</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PIV to anonymize 10000 PIV</source>
-        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 PIV, kad anonimizuotų 10000 PIV</translation>
+        <source>This option is moderately fast and will cost about 0.05 SMRT to anonymize 10000 SMRT</source>
+        <translation>Ši parinktis yra vidutiniškai greita ir kainuoja apie 0,05 SMRT, kad anonimizuotų 10000 SMRT</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tai yra lėčiausias ir saugiausias variantas. Maksimalus anonimiškumas kainuos.</translation>
     </message>
     <message>
-        <source>0.1 PIV per 10000 PIV you anonymize.</source>
-        <translation>0.1 PIV kas 1000 PIV kuriuos anonimizuosite.</translation>
+        <source>0.1 SMRT per 10000 SMRT you anonymize.</source>
+        <translation>0.1 SMRT kas 1000 SMRT kuriuos anonimizuosite.</translation>
     </message>
     </context>
 <context>
@@ -1842,20 +1842,20 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Įrašyti prievadą naudojant &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable zPIV Automint</source>
-        <translation>Įgalinti zPIV Automatinį nukaldinima</translation>
+        <source>Enable zSMRT Automint</source>
+        <translation>Įgalinti zSMRT Automatinį nukaldinima</translation>
     </message>
     <message>
-        <source>Percentage of incoming PIV which get automatically converted to zPIV via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procentas gauto PIV, kuris automatiškai bus konvertuotas į zPIV naudojant Zerocoin Protokolą (min: 10%)</translation>
+        <source>Percentage of incoming SMRT which get automatically converted to zSMRT via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procentas gauto SMRT, kuris automatiškai bus konvertuotas į zSMRT naudojant Zerocoin Protokolą (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zPIV</source>
-        <translation>Automatiškai sukurtų zPIV procentas</translation>
+        <source>Percentage of autominted zSMRT</source>
+        <translation>Automatiškai sukurtų zSMRT procentas</translation>
     </message>
     <message>
-        <source>Preferred Automint zPIV Denomination</source>
-        <translation>Pageidautinas zPIV Automatinio Nukaldinimo Nominalas</translation>
+        <source>Preferred Automint zSMRT Denomination</source>
+        <translation>Pageidautinas zSMRT Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
         <source>Connect to the SMRT network through a SOCKS5 proxy.</source>
@@ -1965,8 +1965,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Bendras balansas, įskaitant visas nepasiekiamas monetas.</translation>
     </message>
     <message>
-        <source>PIV Balance</source>
-        <translation>PIV Balansas</translation>
+        <source>SMRT Balance</source>
+        <translation>SMRT Balansas</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -1993,8 +1993,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Jūsų dabartinis SMRT balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
-        <source>zPIV Balance</source>
-        <translation>zPIV Balansas</translation>
+        <source>zSMRT Balance</source>
+        <translation>zSMRT Balansas</translation>
     </message>
     <message>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the SMRT network after a connection is established, but this process has not completed yet.</source>
@@ -2033,8 +2033,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Prienamas išleidimui:</translation>
     </message>
     <message>
-        <source>Locked PIV or Masternode collaterals. These are excluded from zPIV minting.</source>
-        <translation>Užrakinti PIV arba Masternode užstatai. Jie yra neįtraukti į zPIV kalimą.</translation>
+        <source>Locked SMRT or Masternode collaterals. These are excluded from zSMRT minting.</source>
+        <translation>Užrakinti SMRT arba Masternode užstatai. Jie yra neįtraukti į zSMRT kalimą.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2086,12 +2086,12 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     <message>
-        <source>0.000 000 00 PIV</source>
-        <translation>0.000 000 00 PIV</translation>
+        <source>0.000 000 00 SMRT</source>
+        <translation>0.000 000 00 SMRT</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -2118,8 +2118,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Prieinamas Balansas: </translation>
     </message>
     <message>
-        <source>0 zPIV</source>
-        <translation>0 zPIV</translation>
+        <source>0 zSMRT</source>
+        <translation>0 zSMRT</translation>
     </message>
     <message>
         <source>Security Level:</source>
@@ -2539,8 +2539,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>Grąža: </translation>
     </message>
     <message>
-        <source>0 PIV</source>
-        <translation>0 PIV</translation>
+        <source>0 SMRT</source>
+        <translation>0 SMRT</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2985,8 +2985,8 @@ https://www.transifex.com/smrt-project/smrt-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zPIV</source>
-        <translation>zPIV</translation>
+        <source>zSMRT</source>
+        <translation>zSMRT</translation>
     </message>
     </context>
 <context>
